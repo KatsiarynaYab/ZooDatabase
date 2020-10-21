@@ -13,3 +13,6 @@ multiples and master keys.
 The description consists of: Entity description (means to characterize the set that is represented by the entity), 
 Attribute description(what the attribute means and determining the domain of the attribute), Relationship description(describe what the relationship represents and
 justify its multiplicity and optionality).
+
+## .sql content
+Database creation, filling with sample data, creating example database queries.
